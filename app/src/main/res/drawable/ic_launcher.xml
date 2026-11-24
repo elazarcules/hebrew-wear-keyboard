@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Round icon: dark-blue disc with three rows of keys -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#1F3A5F"
+        android:pathData="M24,0a24,24 0,1 1,0 48a24,24 0,1 1,0 -48z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M13,15h4v4h-4z M19,15h4v4h-4z M25,15h4v4h-4z M31,15h4v4h-4z
+                          M10,21h4v4h-4z M16,21h4v4h-4z M22,21h4v4h-4z M28,21h4v4h-4z M34,21h4v4h-4z
+                          M13,27h4v4h-4z M19,27h4v4h-4z M25,27h4v4h-4z M31,27h4v4h-4z
+                          M17,33h14v3h-14z" />
+</vector>

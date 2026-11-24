@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מקלדת עברית</string>
+    <string name="ime_name">מקלדת עברית</string>
+    <string name="subtype_he">עברית</string>
+</resources>
